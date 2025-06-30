@@ -1,3 +1,4 @@
+![Screenshot_20250626-115222](https://github.com/user-attachments/assets/34d2e7b7-f7a9-4570-b604-0394309ff61c)
 ## Security Policy
 
 Security at Contentful
